@@ -1,24 +1,7 @@
-> # NOTE: Tigase has new home at [tigase.dev/tigase/_libraries/Martin/](https://tigase.dev/tigase/_libraries/Martin/) - please submit all issues/pull-requests there!
-
-
-<!--<p align="center">
-  <a href="https://tigase.net/">
-    <img
-      alt="YouTrack Agile Boards"
-      src="/assets/Agile_Board.png"
-      width="600"
-    />
-  </a>
-</p>-->
-
 <h1 align="center">
   Martin - XMPP client library for Swift
 </h1>
 
-<!--<p align="center">
-  <img alt="Tigase Tigase Logo" src="/assets/tigase-logo.png" width="25"/>
-  <img src="https://tc.tigase.net/app/rest/builds/buildType:(id:TigaseXmlTools_Build)/statusIcon" width="100"/>
-</p>-->
 
 ![](Documentation/src/main/restructured/images/logo_320.png)
 
@@ -69,11 +52,9 @@ Additionally it supports many popular XEPs. Below is a list of some of the suppo
 When looking for support, please first search for answers to your question in the available online channels:
 
 * Our online documentation: [Tigase Docs](https://docs.tigase.net)
-* Our online forums: [Tigase Forums](https://help.tigase.net/portal/community)
-* Our online Knowledge Base [Tigase KB](https://help.tigase.net/portal/kb)
+* Existing issues in relevant project, for Tigase Server it's: [Tigase XMPP Server GitHub issues](https://github.com/tigase/tigase-server/issues)
 
-If you didn't find an answer in the resources above, feel free to submit your question to either our 
-[community portal](https://help.tigase.net/portal/community) or open a [support ticket](https://help.tigase.net/portal/newticket).
+If you didn't find an answer in the resources above, feel free to submit your question as [new issue on GitHub](https://github.com/tigase/tigase-server/issues) or, if you have valid support subscription, open [new support ticket](https://tigase.net/technical-support).
  
 # Compilation 
 
